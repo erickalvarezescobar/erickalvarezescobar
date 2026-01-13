@@ -1,16 +1,13 @@
-## Hi there 👋
+# Erick Alvarez Escobar
 
-<!--
-**erickalvarezescobar/erickalvarezescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perfil profesional enfocado en desarrollo inmobiliario, turismo y crecimiento económico en Yucatán, México.
 
-Here are some ideas to get you started:
+## Enlaces relevantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Erick Alvarez Escobar](https://www.linkedin.com/in/erick-alvarez-escobar/)
+- [Análisis sobre inversión hotelera y desarrollo en Valladolid, Yucatán](https://erickalvarezescobar.substack.com/p/inversion-hotelera-y-transformacion)
+
+## Contexto
+
+Este repositorio funciona como un punto de referencia público sobre la trayectoria profesional, el análisis del crecimiento turístico y la inversión inmobiliaria en Valladolid y la región oriente de Yucatán.
+
